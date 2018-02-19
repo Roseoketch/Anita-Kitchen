@@ -1,0 +1,45 @@
+body{
+  overflow-x: hidden;
+}
+.container{
+  /* margin: 15%; */
+
+}
+.jumbotron{
+  background-image:url(src="/img/landing.jpg");
+
+}
+.logo{
+  margin-left: 30%;
+}
+.party{
+  background-color: #F15A29;
+  margin-right: 85%;
+  padding: 10px;
+}
+
+.happy{
+  background-color: white;
+  margin-right: 85%;
+  padding: 10px;
+}
+.break{
+  background-image:url(../img/breakfast.jpg);
+  float: right;
+  padding: 10px;
+}
+.typeof{
+text-decoration: none;
+}
+h5{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+.footer img{
+  flo
+}
