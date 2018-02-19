@@ -56,18 +56,26 @@ h5 {
 }
 .container-fluid-5{
   background-image: url("../img/background/foodsBg.jpg");
+  height: 320px;
 }
-.nav nav-tabs{
+.container-fluid-7{
+/* display: grid; */
+}
+.overlay-content a{
   text-decoration: none;
-  border: 2px solid white;
-  padding: 6px;
-  margin: 20px;
-  background-color: white;
+  font-size: 25px;
+  padding: 8px;
+  display: inline;
 }
-#sidebar{
-  text-align: right;
-  padding: 15px;
+.overlay a{
+  text-decoration: none;
+  padding: 80px;
+  color:#F15A29
 }
-.drinks{
-  float: right;
+.content a{
+  text-decoration: none;
+  padding:50px;
+}
+.container-fluid-2 img{
+  align:right;
 }
