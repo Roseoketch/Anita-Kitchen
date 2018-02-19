@@ -13,30 +13,25 @@ body{
 
 }
 
-}
-.logo{
-  /* margin-left: 30%; */
-}
 .party{
   background-color: #F15A29;
-  margin-right: 85%;
-  padding: 10px;
-}
+  margin: 30px;
+  padding: 25px;
+  text-align: center;
+  font-size: 300%
+  }
+
 
 .happy{
   background-color: white;
-  margin-right: 85%;
-  padding: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  font-size: 300%;
 }
-.break{
+.container .break{
   background-image:url("../img/breakfast.jpg");
   height: 100px;
-}
-.typeof{
-text-decoration: none;
-}
-h5{
-  text-align: center;
 }
 h3{
   text-align: center;
@@ -45,5 +40,11 @@ h4{
   text-align: center;
 }
 #text3{
-  float: left;
+  text-align: center;
+  margin-top: 20%;
+}
+h5{
+  text-align: center;
+  margin-left: 40%;
+  margin-right:40%;
 }
