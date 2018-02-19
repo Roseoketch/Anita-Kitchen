@@ -6,8 +6,8 @@ It contains info of that is available at Anita Kitchen and her potential custome
 ## Setup/Installation Requirements
 * Tools used HTML, CSS, jquery, bootstrap and partly scripts
 * Should always have positive feedback
-* Must be willing to have a bite of what we offer
+* Must be willing to have a bite of what she offer
 ## Known Bugs
-No bugs. you can reach me via the provided contacts
+No bugs. you can reach her via the provided contacts
 ### License
 Copyright (c) 2018 Moringa school
