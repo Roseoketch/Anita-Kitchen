@@ -17,21 +17,26 @@ body {
 .party {
   background-color: #F15A29;
   font-size: 150%;
-  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   margin-right: 80%;
+  text-align: center;
 }
 
 .hour {
-  background-color: white;
+  background-color: grey;
   font-size: 150%;
-  padding: 10px;
+  padding: 20px;
   margin-right: 80%;
+  text-align: center;
 }
 
-.container .break {
-  background-image: url("../img/breakfast.jpg");
-  height: 100px;
+.container-fluid-2 .menu{
+text-align: center;
+margin-left: 20%;
+/* padding: 5%; */
 }
+
 
 h4 {
   text-align: center;
@@ -75,7 +80,4 @@ h5 {
 .content a{
   text-decoration: none;
   padding:50px;
-}
-.container-fluid-2 img{
-  align:right;
 }
